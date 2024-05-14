@@ -1,0 +1,699 @@
+body {
+  font-family: 'Chivo', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  margin: 0;
+}
+.indexlink:hover {
+  color:whitesmoke;
+  background-color: #0D4463;
+  }
+
+.linkrojo:hover {
+  color: #B12028
+}
+
+/*Barra de Navegación*/
+.navbarstyle {
+  background-color: #B12028;
+  padding: .3vw;
+}
+
+.logcompletomd {
+  height: 35px;
+}
+
+/*Header*/
+.header-container {
+  margin: 0;
+  padding: 1.5% 2% 2%;
+  background-image: url(JPG/cafetos_bg5.jpg);
+  background-size: cover;
+}
+.header-container-b {
+  margin: 0;
+  padding: 1.5% 2% 2%;
+  background-image: url(JPG/flor_cafe.jpg);
+  background-size: cover;
+}
+
+.logo_cuadrado_blanco {
+  height: 140px;
+}
+
+/*********Página principal sección 1**********/
+.section1 {
+  padding: 5%;
+}
+
+.oropendola_encabezado {
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.internalsection1 {
+  background-color: #E6E6E6;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.text_section1 {
+  text-align: justify;
+  font-size: 90%;
+}
+
+.myButton {
+  background-color: #B12028;
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+  color: #FCFCFC;
+  font-size: 17px;
+  padding: 12px 14px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  box-shadow: 2px 2px 4px #2C394B;
+  color: #FCFCFC;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+/**********Página principal sección 2***********/
+.only_background_light{
+    background-color: #F2EBDF;
+}
+
+.pajarofooter {
+  width: 35px;
+}
+
+.red-background {
+  background-color: #B12028;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.hovershadow:hover {
+  box-shadow: 2px 2px 4px #2C394B;
+}
+.hovershadow3:hover {
+  box-shadow: 2px 2px 4px #2C394B;
+}
+
+/********Sección 3 "Productores"********/
+.container_productores{
+  color: #FCFCFC;
+  padding: 3% 3% 1.5%;
+  text-align: center;
+
+}
+.only_background_blue{
+    background-color: #0D4463;
+}
+.only_background_red {
+  background-color: #B12028;
+}
+.only_background_orange{
+  background-color: #FF9015;
+}
+.only_background_gray{
+  background-color: #2C394B;
+}
+.show900{
+  display: none;
+}
+.myButton2 {
+    border-radius: 3px;
+  cursor: pointer;
+  color: #FCFCFC;
+  font-size: 12px;
+  padding: 7px;
+  text-decoration: none;
+}
+
+.myButton2:hover {
+  box-shadow: 2px 2px 2px #2C394B;
+  color: #FCFCFC;
+}
+
+.myButton2:active {
+  position: relative;
+  top: 1px;
+}
+/*******sección 4 "Contacto"*********/
+.section4 {
+  padding: 5% 10%;
+}
+
+.internalsection3 {
+  padding: 2%;
+  border-radius: 5px
+}
+
+.imagen_interna_seccion3 {
+  width: 100%;
+  border-radius: 10px;
+  border: 10px solid #FCFCFC;
+}
+
+.light-background {
+  background-color: #FCFCFC;
+}
+.base_red_blackground {
+  background-color: #B12028;
+  padding: 0 2vw 2vw;
+}
+
+/**************
+Final de página principal
+***************/
+/***********Guia de preparación*************/
+.maincontainer-4 {
+  background-image: url(PNG/bg_metodos.png);
+  background-repeat: repeat;
+  background-color: #0D4463;
+  color: #FCFCFC;
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.iconosmetodo {
+  background-color: #FCFCFC;
+  width: 55%;
+  border-radius: 10px;
+  padding: 4%;
+  margin: 6% auto;
+}
+
+.blue-text {
+  color: #0D4463;
+  font-size: 90%;
+}
+
+.white-background {
+  background-color: #FCFCFC;
+  border-radius: 5px;
+}
+.base_blue_blackground2 {
+  background-image: url(PNG/bg_metodos.png);
+  background-repeat: repeat;
+  background-color: #0D4463;
+  padding: 0 2vw 2vw;
+}
+/*************footer general***********/
+#footer {
+  background-image: url(JPG/fondo_footer.jpg);
+  background-size: cover;
+  padding: 2% 4%;
+}
+
+.logo_blanco_footer {
+  width: 100px;
+}
+
+.icons {
+  font-size: 30px;
+  margin-right: 10px;
+  color: #E6E6E6;
+}
+
+.footer_list {
+  text-align: right;
+  color: #E6E6E6;
+  list-style-type: none;
+}
+
+.list_item4 {
+  margin-bottom: 7px;
+}
+
+/***************Linea Base fondo azul logo gris*************/
+.baselinegray {
+  height: 3px;
+  width: 100%;
+  background-color: #BFBFBF;
+  margin-bottom: 10px;
+}
+
+.base_blue_blackground {
+  background-color: #0D4463;
+  padding: 0 2vw 2vw;
+}
+
+.base_orange_blackground {
+  background-color: #FF9015;
+  padding: 0 2vw 2vw;
+}
+.base_gray_blackground {
+  background-color: #2C394B;
+  padding: 0 2vw 2vw;
+}
+
+.base_khaki_blackground {
+  background-color: #F2EBDF;
+  padding: 2vw;
+}
+
+.logo_base_line {
+  width: 20%;
+  margin-left: 80%;
+}
+.base_brown_blackground {
+  background-color: #393B3A;
+  padding: 0 2vw 2vw;
+}
+/***************Linea Base fondo azul logo gris*************/
+.baselineblue {
+  height: 3px;
+  width: 100%;
+  background-color: #0D4463;
+  margin-bottom: 10px;
+}
+
+.base_light_background {
+  background-color: #F2EBDF;
+  padding: 0 2vw 2vw;
+}
+
+/**Preparacion de métodos**/
+.preparacionmetodos {
+  background-color: #F2EBDF;
+}
+
+.maincontainer-metodos {
+  padding: 3%;
+  background-image: url('PNG/bannermetodo_1.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  color: #0D4463;
+}
+.maincontainer-kalita {
+  padding: 3%;
+  background-image: url('JPG/metodos_preparacion/banner_kalita.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  color: #F2EBDF;
+}
+.maincontainer-chemex {
+  padding: 3%;
+  background-image: url('JPG/metodos_preparacion/banner_chemex.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  color: #B12028;
+}
+.maincontainer-dripper {
+  padding: 3%;
+  background-image: url('JPG/metodos_preparacion/banner_dripper.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  color: #F2EBDF;
+}
+.receta_contenedor {
+  background-color: #FFFFFF;
+  padding: 5%;
+  border-radius: 5px;
+}
+
+.innersection4 {
+  margin-top: 15vw
+}
+
+.leftalign {
+  text-align: left;
+}
+
+.hovershadow2:hover {
+  box-shadow: 3px 3px 5px black;
+}
+
+
+/**Dripper**/
+.seccion_principal_metodos {
+  padding: 3% 10%;
+  color: #0D4463;
+}
+
+.imagan_guia {
+  width: 85%;
+  border: 1vw solid #FFFFFF;
+  border-radius: 5px;
+  padding: 2vw 1vw;
+
+}
+
+.baseblue {
+  height: 3px;
+  width: 100%;
+  background-color: #0D4463;
+  margin-bottom: 10px;
+}
+
+/**Pagina descripción de café**/
+.darkbody {
+  background-color: #393B3A;
+}
+
+.header-container2 {
+  margin: 0;
+  padding: 1.5% 2% 2%;
+  background-image: url('JPG/fotocafebanner.jpg');
+  background-size: cover;
+}
+
+.maincontainer3 {
+  padding: 5% 8%;
+}
+
+.border-orangeR {
+  border: 1px solid #FF9015;
+  border-right: 0;
+}
+
+.border-orangeL {
+  border: 1px solid #FF9015;
+  border-left: 0;
+}
+
+.orange-text {
+  color: #FF9015;
+}
+.white_text{
+  color: #FCFCFC;
+}
+.blue_text{
+  color: #0D4463;
+}
+.width_adjust{
+  width: 85%;
+}
+/***********Dónde comprar*************/
+.maincontainer {
+  padding: 3% 8% 5%;
+  background-color: #393B3A;
+  color: #FCFCFC;
+}
+
+.bg-red {
+  padding: 4%;
+}
+.bg-red  h4{
+  text-align: center;
+}
+.bg-red:hover {
+  background: #FF9015;
+}
+
+.fotoubicacion {
+  width: 100%;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  border-radius: 3px;
+}
+
+.middle {
+  text-align: center;
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .fotoubicacion {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #B12028;
+  color: white;
+  padding: 10px 10px 4px;
+}
+
+.position1 {
+  position: relative;
+}
+
+.map {
+  width: 50vw;
+  height: 50vw;
+  border: 5px solid #FCFCFC;
+}
+.white_hr {
+  border-top: 3px solid #FCFCFC;
+}
+.innercafeteria{
+  background-color: #B12028;
+  padding: 4%;
+  border: 2vw;
+  border-radius: 5px;
+}
+/********Página Acerca de nosotros***********/
+.maincontainer-7 {
+  background-color: #B12028;
+  color: #FFFFFF;
+  padding: 3% 6% 5%;
+  text-align: center;
+}
+
+.foto_nuestra_historia {
+  width: 30%;
+  border: 7px solid #FCFCFC;
+  border-radius: 3px;
+  float: right;
+  margin: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.logo_width25 {
+  width: 25%;
+  margin-bottom: 15px;
+}
+
+.baselinewhite {
+  height: 3px;
+  width: 55%;
+  background-color: #FCFCFC;
+  margin-bottom: 10px;
+}
+
+.maincontainer-8 {
+  background-color: #F2EBDF;
+  color: #FFFFFF;
+  padding: 5%;
+  text-align: center;
+}
+
+.foto_w100 {
+  width: 100%;
+}
+
+.bg-myv {
+  background-color: #B12028;
+  margin-right: 0;
+  text-align: left;
+  padding: 10% 40% 10% 10%;
+}
+
+.imagen_finca {
+  background-image: url(JPG/myv_01.jpg);
+  background-size: cover;
+  padding: 10% 50% 10% 10%;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.inner_finca_metlapi {
+  background-color: #B12028;
+  border: 10px solid #FCFCFC;
+  padding: 2%;
+}
+
+.external_finca_metlapi {
+  background-color: #B12028;
+  padding: 2%;
+}
+
+.bg_carrusel {
+  background-color: #F2EBDF;
+  padding: 10% 20%;
+}
+
+.cafe_metlapi_main {
+  background-color: #B12028;
+  padding: 7%
+}
+
+.bg_light {
+  background-color: #F2EBDF;
+  color: #0D4463;
+}
+
+/*********************Beneficio************************/
+.background_beneficio{
+  background-image: url(JPG/A-19.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #B12028;
+  padding: 5%;
+}
+.center_text{
+  text-align: center;
+  padding: 3%;
+}
+.red_text{
+  color: #9B0000;
+}
+.red_hr{
+  border-top: 3px solid #9B0000;
+}
+.middle_logo{
+  width: 35%;
+}
+
+
+
+
+
+/*********************Media Quiery*********************/
+@media screen and (max-width: 1200Px) {
+  .maintext2 {
+    font-size: 85%;
+  }
+
+  .logo_base_line {
+    width: 35%;
+    margin-left: 65%;
+  }
+
+  .bg-myv {
+    padding: 10% 20% 10% 10%;
+  }
+
+  .imagen_finca {
+    background-image: url(background-image: url(JPG/myv_01.jpg));
+    background-size: cover;
+    padding: 10% 35% 10% 10%;
+    color: #FFFFFF;
+    text-align: left;
+  }
+
+  .bg_light {
+    font-size: 85%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+.show900{
+  display: inline;
+}
+  .container_productores{
+    padding: 2% 1.5%;
+  }
+  .bg-myv {
+    padding: 10% 20% 20% 5%;
+    font-size: 80%;
+  }
+
+  .text_section1 {
+    font-size: 85%;
+  }
+
+  .hide900 {
+    display: none;
+  }
+  .bg-red  h4{
+    font-size: 100%;
+  }
+  .section1{
+    padding: 7%;
+  }
+  .leftalign {
+    font-size: 85%;
+  }
+  .section2{
+    padding: 7%;
+  }
+  .middle_logo{
+    width: 55%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .innersection4 {
+    margin-top: 20vw
+  }
+  .hide768 {
+    display: none;
+  }
+  .logo_width25 {
+    width: 100%;
+  }
+
+  .maincontainer-8 {
+    padding: 5% 10%;
+  }
+
+  .imagen_finca {
+    padding: 10%;
+  }
+
+  .productoresL {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 7%;
+  }
+
+  .productoresR {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 7%;
+  }
+
+  .logo_cuadrado_blanco {
+    height: 80px;
+  }
+
+  .logcompletomd {
+    height: 22px;
+  }
+
+  .navbarstyle {
+    background-color: #B12028;
+    padding: .2vw;
+  }
+
+  .iconosmetodo {
+    width: 60%;
+  }
+
+  .blue-text {
+    font-size: 85%;
+  }
+
+  .section4{
+    padding: 5%;
+  }
+}
